@@ -1,0 +1,20 @@
+{
+  "name": "dig4639-ex2",
+  "version": "1.0.0",
+  "description": "\"Price is what you pay. Value is what you get.\"\r -Warren Buffet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylechung10/dig4639-ex2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylechung10/dig4639-ex2/issues"
+  },
+  "homepage": "https://github.com/kylechung10/dig4639-ex2#readme"
+}
